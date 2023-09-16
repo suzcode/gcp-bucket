@@ -1,7 +1,7 @@
 steps:
 
 # Step 0
-# Create bucket in US-Central region 
+# Create bucket in the US-Central region 
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: 'bash'
     args:
